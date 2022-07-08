@@ -1,0 +1,4 @@
+#Fri Jul 08 14:03:15 IST 2022
+base.0=/Users/sohail/StudioProjects/task1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
